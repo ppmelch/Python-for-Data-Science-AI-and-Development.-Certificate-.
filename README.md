@@ -23,7 +23,7 @@ This course is part of IBM’s Data Science learning pathway designed to prepare
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - Python  
 - Jupyter Notebook  
